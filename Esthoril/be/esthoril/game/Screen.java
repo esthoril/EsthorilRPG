@@ -16,6 +16,8 @@ import be.esthoril.entities.ShopKeeper;
 import be.esthoril.gfx.Img;
 import be.esthoril.gfx.Room;
 import be.esthoril.gfx.WorldMap;
+import be.esthoril.handlers.KeyHandel;
+import be.esthoril.handlers.MouseHandel;
 import be.esthoril.item.Item;
 import be.esthoril.item.ItemBar;
 import be.esthoril.item.Shop;

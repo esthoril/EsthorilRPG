@@ -1,9 +1,11 @@
-package be.esthoril.game;
+package be.esthoril.handlers;
 
 import java.awt.Point;
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
 import java.awt.event.MouseMotionListener;
+
+import be.esthoril.game.Screen;
 
 
 public class MouseHandel implements MouseMotionListener, MouseListener {

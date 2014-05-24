@@ -1,7 +1,9 @@
-package be.esthoril.game;
+package be.esthoril.handlers;
 
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
+
+import be.esthoril.game.Screen;
 
 public class KeyHandel implements KeyListener{
 	
